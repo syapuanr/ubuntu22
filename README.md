@@ -20,8 +20,8 @@ Install Ubuntu 22.04 LTS secara manual di Termux tanpa proot-distro.
 
 ```bash
 # Clone repo
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/syapuanr/ubuntu22.git
+cd ubuntu22
 
 # Beri izin execute
 chmod +x install.sh uninstall.sh backup-restore.sh
